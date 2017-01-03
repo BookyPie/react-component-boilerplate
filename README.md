@@ -6,7 +6,7 @@ boilerplate to build react component
 First, clone the repo via git:
 
 ```bash
-git clone https://github.mosaic.sec.samsung.net/jabez-park/react-component-boilerplate.git your-project-name
+git clone https://github.com/BookyPie/react-component-boilerplate.git your-project-name
 ```
 
 And then install dependencies.
